@@ -1,0 +1,32 @@
+[
+  {
+    "sector": "Technology",
+    "ticker": "XLK",
+    "one_year_return": 61.62,
+    "volatility": 21.08
+  },
+  {
+    "sector": "Healthcare",
+    "ticker": "XLV",
+    "one_year_return": 15.52,
+    "volatility": 14.9
+  },
+  {
+    "sector": "Financials",
+    "ticker": "XLF",
+    "one_year_return": 3.71,
+    "volatility": 14.56
+  },
+  {
+    "sector": "Industrials",
+    "ticker": "XLI",
+    "one_year_return": 23.33,
+    "volatility": 15.4
+  },
+  {
+    "sector": "Energy",
+    "ticker": "XLE",
+    "one_year_return": 47.61,
+    "volatility": 20.43
+  }
+]
